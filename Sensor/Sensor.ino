@@ -46,7 +46,7 @@ void setup() {
   mlx.begin();
 
   // Se crea el cáracter personalizado
-  lcd.createChar(Circle, customChar);
+  //lcd.createChar(Circle, customChar);
 
   // Enciende la retroiluminación e imprime un mensaje.
   //lcd.backlight();
